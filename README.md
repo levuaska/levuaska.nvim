@@ -18,7 +18,7 @@
 
 <img src="./misc/demonstration.png"></img>
 
-## External Plugin Support
+## 🌺 External Plugin Support
 
 - Telescope
 - Nvim Tree
@@ -34,7 +34,7 @@
 - Lualine
 - Indent-BlankLine
 
-## Installation
+## 🔎 Installation
 
 You can install this plugin with packer:
 
@@ -48,7 +48,7 @@ Or with vim-plug:
 Plug 'levuaska/levuaska.nvim', { 'as': 'levuaska' }
 ```
 
-## Active theme
+## 🌌 Active theme
 
 To active the theme call this in your neovim config:
 
@@ -89,6 +89,6 @@ local levuaska = require('levuaska.core')
 local colors = levuaska.get_colors()
 ```
 
-<h2>Thanks</h2>
+<h2>💜 Thanks</h2>
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
